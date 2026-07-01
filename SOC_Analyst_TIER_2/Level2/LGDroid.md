@@ -128,6 +128,8 @@ To analyze the image, I located suspicious.jpg in the extracted forensic data. T
 
 As shown, the tool processed the image and returned several compression comparison results. The SSIM value ranges from 0 to 1, where values closer to 1 indicate a higher degree of similarity between images. A score of 0.9873 indicates that the image is extremely similar to the comparison image, with only minor differences.
 
+<img width="1000" height="372" alt="image" src="https://github.com/user-attachments/assets/4ef5265d-0b99-4b7d-9eaa-e96dbbeeae3d" />
+
 I analyzed the similar image taken with a mobile phone and results are presented below.
 
 <img width="976" height="377" alt="image" src="https://github.com/user-attachments/assets/b76f046b-8988-46f3-8a2c-fee60e3b78bd" />
